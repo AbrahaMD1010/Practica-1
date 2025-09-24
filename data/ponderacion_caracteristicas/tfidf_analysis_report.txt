@@ -1,0 +1,52 @@
+TF-IDF FEATURE WEIGHTING ANALYSIS REPORT
+==================================================
+
+SUMMARY STATISTICS
+--------------------
+Total Entries: 478,949
+Mean Tfidf: 0.029760
+Max Tfidf: 1.204913
+Min Tfidf: 0.000386
+Std Tfidf: 0.050621
+Unique Terms: 22,363
+
+TOP TERMS ANALYSIS
+--------------------
+
+Top 10 terms by Mean:
+   1. cotx                 | Mean: 1.076971 | Docs:    1
+   2. ara                  | Mean: 1.076971 | Docs:    1
+   3. mateix               | Mean: 1.076971 | Docs:    1
+   4. access               | Mean: 1.076971 | Docs:    1
+   5. laeroport            | Mean: 1.076971 | Docs:    1
+   6. refug                | Mean: 0.990328 | Docs:    2
+   7. antiaere             | Mean: 0.990328 | Docs:    2
+   8. socialconfus         | Mean: 0.906923 | Docs:    1
+   9. alzir                | Mean: 0.880292 | Docs:    2
+  10. argand               | Mean: 0.880292 | Docs:    2
+
+Top 10 terms by Max:
+   1. xiaomi               | Max: 1.204913 | Docs:    4
+   2. taxist               | Max: 1.188423 | Docs:    8
+   3. jamon                | Max: 1.089388 | Docs:    8
+   4. cotx                 | Max: 1.076971 | Docs:    1
+   5. ara                  | Max: 1.076971 | Docs:    1
+   6. mateix               | Max: 1.076971 | Docs:    1
+   7. access               | Max: 1.076971 | Docs:    1
+   8. laeroport            | Max: 1.076971 | Docs:    1
+   9. fra                  | Max: 1.032782 | Docs:    4
+  10. serran               | Max: 1.008470 | Docs:   13
+
+Top 10 terms by Document Count:
+   1. de                   | Document_Count: 5221.000000 | Docs: 5221
+   2. la                   | Document_Count: 4744.000000 | Docs: 4744
+   3. el                   | Document_Count: 4530.000000 | Docs: 4530
+   4. en                   | Document_Count: 4390.000000 | Docs: 4390
+   5. que                  | Document_Count: 4158.000000 | Docs: 4158
+   6. los                  | Document_Count: 3369.000000 | Docs: 3369
+   7. del                  | Document_Count: 3128.000000 | Docs: 3128
+   8. un                   | Document_Count: 3080.000000 | Docs: 3080
+   9. se                   | Document_Count: 2933.000000 | Docs: 2933
+  10. por                  | Document_Count: 2924.000000 | Docs: 2924
+
+Report generated: 2025-09-23 23:05:15
